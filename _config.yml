@@ -1,0 +1,21 @@
+theme: jekyll-theme-slate
+author: Vaibhav Mathur
+email: vaibhavmathur117@gmail.com
+url: https://vaibhav117.github.io/
+title: Vaibhav's Blog
+date_format: "%b %-d, %Y"
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+links:
+  - title: HOME
+    url: /
+pages_list:       
+  #About: '/about'
+  #Archive: '/archive'
+  Home: '/index'
